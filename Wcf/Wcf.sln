@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSDownloadService", "Wcf\FSDownloadService.csproj", "{FB053866-D003-4E5E-8972-E47C413BEF7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSDownloadClient", "FSDownloadClient\FSDownloadClient.csproj", "{A2B9C6ED-7652-421F-B376-33A759137089}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB053866-D003-4E5E-8972-E47C413BEF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB053866-D003-4E5E-8972-E47C413BEF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB053866-D003-4E5E-8972-E47C413BEF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB053866-D003-4E5E-8972-E47C413BEF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B9C6ED-7652-421F-B376-33A759137089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B9C6ED-7652-421F-B376-33A759137089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B9C6ED-7652-421F-B376-33A759137089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B9C6ED-7652-421F-B376-33A759137089}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
